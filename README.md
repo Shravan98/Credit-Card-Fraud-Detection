@@ -3,10 +3,10 @@ Initial dataset had 30 attributes . The data is PCA transformed and the 28 attri
 
 5 classifiers are used.
 
-1.Logistic regression
-2.Neural Networks
-3.K-means
-4.SVM
-5. Decision Trees
+1.Logistic regression 
+2.Neural Networks 
+3.K-means 
+4.SVM 
+5.Decision Trees 
 
 The dataset used is available at this link https://www.kaggle.com/mlg-ulb/creditcardfraud.
